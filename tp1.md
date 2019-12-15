@@ -21,7 +21,9 @@ Nous allons créer un projet sur le site Github que nous appellerons “calculet
 
 
 Nous initialiserons notre projet avec un fichier Readme.
-Avant de valider nous allons faire un point sur ce qu’est une licence logicielle. Nous en discuterons ensemble lorsque tout le monde aura réalisé la partie 1.
+
+Qu'est qu'une licence logicielle ? 
+Qu'est qu'un fichier Readme.md ?
 
 
 Enfin nous allons récupérer localement notre projet git pour celà depuis un terminal nous allons effectuer la commande suivante :
@@ -35,6 +37,8 @@ La commande est donc : git clone https://github.com/ludovic-bouguerra/calculette
 
 Nous allons avoir maintenant un dossier nommé calculette-python observez le contenu.
 
+Remplissons le fichier Md en décrivant notre projet par exemple avec le contenu suivant: 
+Ce programme est une calculatrice en ligne de commande.
 
 ## Partie 2 : Création de notre projet calculatrice
 
@@ -43,11 +47,12 @@ Nous allons créer un projet Python. Il suffit pour cela de créer un nouveau do
 Pour tester notre programme il faudra depuis une console effectuer la commande suivante dans le dossier calculette-python effectuer la commande “python calculette.py”
 
 Quels sont les outils dont nous allons avoir besoin : 
-Comment effectuer un affichage dans un terminal en python
 
-Comment récupérer les paramètres saisis par les utilisateurs dans le terminal
+* Comment effectuer un affichage dans un terminal en python
 
-Comment effectuer des conditions en python et comparer des chaînes de caractères.
+* Comment récupérer les paramètres saisis par les utilisateurs dans le terminal
+
+* Comment effectuer des conditions en python et comparer des chaînes de caractères.
 
 **Premier objectif** : Afficher “Calculatrice” lorsque l’utilisateur lance l’application.
 
@@ -91,13 +96,14 @@ Même processus que précédent mais avec la notion de division.
 
 Nous allons à présent documenter notre projet, pour cela nous allons le faire de deux manières différentes, la première voie sera via **l’utilisation du Wiki de Github**. La seconde sera de compléter **le fichier Readme**
 .
-Quel est le format des fichiers Readme.md sous github ?
 Essayez de faire apparaitre dans le fichier Readme.md des :
 Tableaux 
 Un titre principal
 Un titre secondaire
 Faites la modification d’abord directement sur Github et une autre en modifiant en réalisant un commit. 
 Que constatez-vous lorsque vous souhaitez effectuer le commit après une modification sur Github.
+
+Que jugerez-vous utile de mettre dans la documentation ?
 
 ## Partie 5 : Bonus
 
