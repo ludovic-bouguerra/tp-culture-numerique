@@ -67,7 +67,7 @@ Effectuer votre premier commit en envoyant le contenu modifié de votre fichier 
 Le programme doit lors que l’utilisateur effectue la commande suivante :
 
 ```
-python calculatrice.js add 2 3 
+python calculatrice.py add 2 3 
 ```
 
 Le programme doit afficher le résultat suivant :
