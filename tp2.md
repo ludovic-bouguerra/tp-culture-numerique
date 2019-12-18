@@ -2,6 +2,8 @@
 
 Le but de ce TP sera de comprendre comment sont structurés les réseaux informatiques. Nous traiterons les notions d’adresses IP, de port et nous ferons communiquer plusieurs ordinateurs entre eux. 
 
+/!\ Pour ceux qui veulent aller plus loin : https://openclassrooms.com/fr/courses/1561696-les-reseaux-de-zero (Partie bonus).
+
 ## Partie 1 : Utiliser un simulateur de réseau
 
 Télécharger filius : http://www.lernsoftware-filius.de/downloads/Filius-Setup-1.7.4.exe
