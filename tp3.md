@@ -2,17 +2,23 @@
 
 Dans ce tutoriel nous allons développer une application client serveur en respectant le protocole TCP.
 
+
 A. Utilisation d'outils collaboratifs quotidien des développeurs en entreprise:
   1. Trello est un outil de suivi de tâches de projet (gestion de projets communs)
     Si ce n'est pas encore fait, installez "trello" sur votre ordinateur
+    
   2. Git est un outil qui permet de travailler, sauvegarder et partager un code source avec les personnes qui travaillent simultanément sur le développement du même code
     Si ce n'est pas encore fait, installez "git" sur votre ordinateur
+
 
 B. Compréhension de la communication entre un client et un serveur.
   1. Suivez les explications (configuration d'un serveur et d'un client en langage Python) sur Open Classroom jusqu'à la partie "Le client"   (incluse):
   https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/234698-gerez-les-reseaux
+  
   2. Après avoir effectué ce tutoriel Open Classroom:
-    Soit vous reprenez le code "calculatrice.py" développé au TP précédent, soit si vous le souhaitez, vous pouvez le réécrire pour pratiquer vos reflexes de développeur 
-    Votre tâche sera de rajouter au code de la culculatrice une fonction "client" et une fonction "serveur" permettant à un client d'interroger la calculatrice hébergée sur un serveur.
+    Soit vous reprenez le code "calculatrice.py" développé au TP précédent, soit si vous le souhaitez, vous pouvez le réécrire (pour pratiquer vos reflexes de développeur)
+    
+    Votre tâche sera de rajouter au code de la calculatrice une fonction "client" et une fonction "serveur" permettant à un client d'interroger la calculatrice hébergée sur un serveur.
+    
     Ces fonctions "client" et "serveur" devront utiliser des protocoles de communications entre client et serveur.
 
