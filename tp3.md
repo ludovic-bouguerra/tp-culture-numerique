@@ -21,8 +21,12 @@ B. Compréhension de la communication entre un client et un serveur.
     Soit vous reprenez le code "calculatrice.py" développé au TP précédent, soit si vous le souhaitez, vous pouvez le réécrire (pour pratiquer vos reflexes de développeur).
     Votre tâche sera de:
     Votre tâche sera de:
+    
     2.1 créer un fichier serveur en python qui communiquera avec un client
+    
     2.2 créer un fichier client en python qui communiquera avec le serveur
+    
     2.3 intégrer la calculatrice au fichier serveur qui permettra au fichier client de l'intérroger pour lancer des calculs. 
+    
     Ces fichiers "client" et "serveur" utiliseront des protocoles de communication FTP entre eux.
     
