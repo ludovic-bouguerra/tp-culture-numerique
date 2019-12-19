@@ -1,4 +1,4 @@
-# Tp n°2 : La communication Client Serveur
+# Tp n°3 : La communication Client Serveur
 
 Dans ce tutoriel nous allons développer une application client serveur en respectant le protocole TCP.
 
