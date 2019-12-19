@@ -10,6 +10,7 @@ A. Utilisation d'outils collaboratifs quotidien des développeurs en entreprise:
   2. Git est un outil qui permet de travailler, sauvegarder et partager un code source avec les personnes qui travaillent simultanément sur le développement du même code
     Si ce n'est pas encore fait, installez "git" sur votre ordinateur
 
+  3. vous utiliserez ces outils afin que l'avancement de votre projet puisse être suivi sur Trello et que les différentes versions du code source de la calculatrice soient accessible et utilisable par les autres membres de votre équipe de projet--> mise en situation dans un environnement de travail professionnel réel (applicable immédiatement en entreprise: stage ou emploi)
 
 B. Compréhension de la communication entre un client et un serveur.
   1. Suivez les explications (configuration d'un serveur et d'un client en langage Python) sur Open Classroom jusqu'à la partie "Le client"   (incluse):
